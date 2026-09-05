@@ -2,6 +2,19 @@
 
 # Changelog
 
+## [0.3.7](https://github.com/menotbobbybrown/deepagents/compare/langchain-quickjs==0.3.6...langchain-quickjs==0.3.7) (2026-09-05)
+
+
+### Features
+
+* **quickjs:** add hmac check to snapshot bytes ([#5601](https://github.com/menotbobbybrown/deepagents/issues/5601)) ([749b386](https://github.com/menotbobbybrown/deepagents/commit/749b386f97ed7b920acfd5936b01f8c425976d92))
+* **quickjs:** stream PTC tool calls natively ([#5735](https://github.com/menotbobbybrown/deepagents/issues/5735)) ([c366c49](https://github.com/menotbobbybrown/deepagents/commit/c366c495129a67629a4477c51e0d1dec778d36e3))
+
+
+### Performance Improvements
+
+* **code,quickjs:** omit middleware trace inputs ([#6015](https://github.com/menotbobbybrown/deepagents/issues/6015)) ([673844d](https://github.com/menotbobbybrown/deepagents/commit/673844d06fe0ee186f2e492c3c0a19ec5facffc2))
+
 ## [0.3.6](https://github.com/langchain-ai/deepagents/compare/langchain-quickjs==0.3.5...langchain-quickjs==0.3.6) (2026-09-03)
 
 ### Features
